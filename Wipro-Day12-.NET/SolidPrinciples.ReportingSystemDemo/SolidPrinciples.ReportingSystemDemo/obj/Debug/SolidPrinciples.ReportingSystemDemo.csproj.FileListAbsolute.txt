@@ -1,0 +1,7 @@
+C:\Users\hp\Desktop\Wipro-NGA-.NET-MSDynamics\Wipro-Day12-.NET\SolidPrinciples.ReportingSystemDemo\SolidPrinciples.ReportingSystemDemo\bin\Debug\SolidPrinciples.ReportingSystemDemo.exe.config
+C:\Users\hp\Desktop\Wipro-NGA-.NET-MSDynamics\Wipro-Day12-.NET\SolidPrinciples.ReportingSystemDemo\SolidPrinciples.ReportingSystemDemo\bin\Debug\SolidPrinciples.ReportingSystemDemo.exe
+C:\Users\hp\Desktop\Wipro-NGA-.NET-MSDynamics\Wipro-Day12-.NET\SolidPrinciples.ReportingSystemDemo\SolidPrinciples.ReportingSystemDemo\bin\Debug\SolidPrinciples.ReportingSystemDemo.pdb
+C:\Users\hp\Desktop\Wipro-NGA-.NET-MSDynamics\Wipro-Day12-.NET\SolidPrinciples.ReportingSystemDemo\SolidPrinciples.ReportingSystemDemo\obj\Debug\SolidPrinciples.ReportingSystemDemo.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Wipro-NGA-.NET-MSDynamics\Wipro-Day12-.NET\SolidPrinciples.ReportingSystemDemo\SolidPrinciples.ReportingSystemDemo\obj\Debug\SolidPrinciples.ReportingSystemDemo.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Wipro-NGA-.NET-MSDynamics\Wipro-Day12-.NET\SolidPrinciples.ReportingSystemDemo\SolidPrinciples.ReportingSystemDemo\obj\Debug\SolidPrinciples.ReportingSystemDemo.exe
+C:\Users\hp\Desktop\Wipro-NGA-.NET-MSDynamics\Wipro-Day12-.NET\SolidPrinciples.ReportingSystemDemo\SolidPrinciples.ReportingSystemDemo\obj\Debug\SolidPrinciples.ReportingSystemDemo.pdb

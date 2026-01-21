@@ -1,0 +1,7 @@
+C:\Users\hp\Desktop\Wipro-NGA-.NET-MSDynamics\Wipro-Day12-.NET\DesignPatternsCaseStudy\DesignPatternsCaseStudy\bin\Debug\DesignPatternsCaseStudy.exe.config
+C:\Users\hp\Desktop\Wipro-NGA-.NET-MSDynamics\Wipro-Day12-.NET\DesignPatternsCaseStudy\DesignPatternsCaseStudy\bin\Debug\DesignPatternsCaseStudy.exe
+C:\Users\hp\Desktop\Wipro-NGA-.NET-MSDynamics\Wipro-Day12-.NET\DesignPatternsCaseStudy\DesignPatternsCaseStudy\bin\Debug\DesignPatternsCaseStudy.pdb
+C:\Users\hp\Desktop\Wipro-NGA-.NET-MSDynamics\Wipro-Day12-.NET\DesignPatternsCaseStudy\DesignPatternsCaseStudy\obj\Debug\DesignPatternsCaseStudy.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Wipro-NGA-.NET-MSDynamics\Wipro-Day12-.NET\DesignPatternsCaseStudy\DesignPatternsCaseStudy\obj\Debug\DesignPatternsCaseStudy.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Wipro-NGA-.NET-MSDynamics\Wipro-Day12-.NET\DesignPatternsCaseStudy\DesignPatternsCaseStudy\obj\Debug\DesignPatternsCaseStudy.exe
+C:\Users\hp\Desktop\Wipro-NGA-.NET-MSDynamics\Wipro-Day12-.NET\DesignPatternsCaseStudy\DesignPatternsCaseStudy\obj\Debug\DesignPatternsCaseStudy.pdb

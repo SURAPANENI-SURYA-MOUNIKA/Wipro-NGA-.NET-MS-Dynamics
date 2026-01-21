@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="SecureManagementTestProject1/SecureManagementTestProject1.csproj" />
+  <Project Path="SecureUserManagementCaseStudy/SecureUserManagementCaseStudy.csproj" />
+</Solution>

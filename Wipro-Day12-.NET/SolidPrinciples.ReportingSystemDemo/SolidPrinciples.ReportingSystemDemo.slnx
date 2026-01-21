@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="SolidPrinciples.ReportingSystemDemo/SolidPrinciples.ReportingSystemDemo.csproj" />
+  <Project Path="xunitTestSolidPrinciples/xunitTestSolidPrinciples.csproj" />
+</Solution>
