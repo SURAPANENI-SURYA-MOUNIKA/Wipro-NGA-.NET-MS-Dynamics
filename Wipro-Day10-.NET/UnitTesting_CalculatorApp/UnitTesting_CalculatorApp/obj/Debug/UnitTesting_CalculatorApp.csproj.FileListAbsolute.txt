@@ -1,0 +1,7 @@
+C:\Users\hp\Desktop\Wipro-NGA-.NET-MSDynamics\Wipro--Day10--.NET\UnitTesting_CalculatorApp\UnitTesting_CalculatorApp\bin\Debug\UnitTesting_CalculatorApp.exe.config
+C:\Users\hp\Desktop\Wipro-NGA-.NET-MSDynamics\Wipro--Day10--.NET\UnitTesting_CalculatorApp\UnitTesting_CalculatorApp\bin\Debug\UnitTesting_CalculatorApp.exe
+C:\Users\hp\Desktop\Wipro-NGA-.NET-MSDynamics\Wipro--Day10--.NET\UnitTesting_CalculatorApp\UnitTesting_CalculatorApp\bin\Debug\UnitTesting_CalculatorApp.pdb
+C:\Users\hp\Desktop\Wipro-NGA-.NET-MSDynamics\Wipro--Day10--.NET\UnitTesting_CalculatorApp\UnitTesting_CalculatorApp\obj\Debug\UnitTesting_CalculatorApp.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Wipro-NGA-.NET-MSDynamics\Wipro--Day10--.NET\UnitTesting_CalculatorApp\UnitTesting_CalculatorApp\obj\Debug\UnitTesting_CalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Wipro-NGA-.NET-MSDynamics\Wipro--Day10--.NET\UnitTesting_CalculatorApp\UnitTesting_CalculatorApp\obj\Debug\UnitTesting_CalculatorApp.exe
+C:\Users\hp\Desktop\Wipro-NGA-.NET-MSDynamics\Wipro--Day10--.NET\UnitTesting_CalculatorApp\UnitTesting_CalculatorApp\obj\Debug\UnitTesting_CalculatorApp.pdb
