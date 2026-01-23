@@ -21,6 +21,7 @@ myState VARCHAR(50) NOT NULL,
 MemberCount INT CHECK(MemberCount>0), 
 Registrations DATE NOT NULL);
 
+
 --inserting values
 INSERT into FPO1(FPOName, myState, MemberCount, Registrations)
 VALUES('greenharvest FPO', 'Andhra', 250,'2022-08-23'),
