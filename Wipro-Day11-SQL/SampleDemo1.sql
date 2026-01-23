@@ -14,6 +14,8 @@ VALUES('greenharvest FPO', 'Andhra', 250,'2022-08-23'),
 
 --create another table
 
+
+
 CREATE TABLE FPO1(
 FPOID INT IDENTITY(1,1) Primary KEY,
 FPOName VARCHAR(100) NOT NULL, 
