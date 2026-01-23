@@ -2,7 +2,7 @@ create database day13Sample1DB;
 use  day13Sample1DB;
 
 /*ddl, dml,aggregate, tcl,dunction with paramters and without paramters
-scalar,grouping*/
+scalar,grouping  */
 
 
 
