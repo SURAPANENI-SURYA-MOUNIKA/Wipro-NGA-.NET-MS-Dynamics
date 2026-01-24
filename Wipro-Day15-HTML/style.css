@@ -1,0 +1,46 @@
+.header{
+    background-color: rgb(0, 255, 102);
+    padding: 20px;
+    text-align:center;
+    font-family: 'Courier New', Courier, monospace;
+    color: blueviolet;
+    border-bottom: 2cap;
+    font-size: medium;
+}
+
+/* creating css attributes for from elements */
+section
+{    margin: 20px;
+    padding: 30px;
+    background-color: burlywood;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    box-shadow: 0 0 10px;
+     border-radius: 25px;
+}
+input[type="submit"]
+{
+    background-color: aqua;
+    font-size: medium;
+    padding: 10px 20px;
+    color: yellowgreen;
+    margin: 0 auto;
+    display: block;
+    border: navy;
+    cursor: pointer;
+    margin: 20px;
+    width: 0 auto;
+     border-radius: 25px;
+
+}
+/* change color when curson place on submit  */
+input[type="submit"]:hover{
+    background-color: chartreuse;
+}
+
+p{
+    color: aqua;
+    text-decoration: dotted;
+}
+a:hover{
+    color:  rgb(174, 50, 205);
+}
