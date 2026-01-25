@@ -5,26 +5,23 @@ function convertToSpeech() {
     let text = document.getElementById("textInput").value;
 
     // Check if user entered text
-    //trim remove spaces means prvent speaking empty text
     if (text.trim() === "") {
         alert("Please enter some text");
         return;
     }
 
-
-    // Create a speech object
+    // Creating a speech object
     let speech = new SpeechSynthesisUtterance();
 
-    // Set the text to be spoken
+    // text to be spoken
     speech.text = text;
-
-    //pace
+     // Pace speed
     // 1 = normal, <1 = slow, >1 = fast
     speech.rate = 1;      
 
-    // Volume 
+    // Volume control
     // Range: 0 (mute) to 1 (full volume)
-    speech.volume = 10;    
+    speech.volume = 1;    
 
     // Speak the text
     window.speechSynthesis.speak(speech);
