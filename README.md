@@ -9,10 +9,10 @@
 ✨ Simple • Clean • Interactive ✨
 
 
+_ _ _
 
 
-
-**🗓 Day 16 – Double Project Milestone**
+##🗓 Day 16 – Double Project Milestone
 
 
 **🎬🎧 Project 1: Multimedia Web Page**
