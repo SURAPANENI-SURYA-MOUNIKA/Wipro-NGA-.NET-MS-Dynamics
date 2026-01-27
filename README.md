@@ -10,10 +10,12 @@
 
 
 
+
+
 **🗓 Day 16 – Double Project Milestone**
 
 
-#🎬🎧 Project 1: Multimedia Web Page
+**🎬🎧 Project 1: Multimedia Web Page**
 
 
 Includes Audio 🎵, Video 🎥, Tables 📊, Navigation 🧭, and Cards 🗂️
