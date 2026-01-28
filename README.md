@@ -1,4 +1,44 @@
-## 📅 Day 2 – Arrays & Loops in .NET 🔁📦
+## 📅 Day 1 – Introduction to .NET & Development Basics 🚀💻
+
+
+**📂 Topics Covered**
+
+
+🌍 Version Control Systems 🔄
+
+
+🧪 Git Basics 🧰
+
+
+🔄 CI/CD – Continuous Integration & Deployment ⚙️
+
+
+🧠 Introduction to .NET Framework 🟣
+
+
+🏗️ .NET Framework Architecture
+
+
+🧱 C# Programming Fundamentals
+
+
+🔢 Data Types in C#
+
+
+🔄 Boxing & Unboxing
+
+
+🔤 Strings in C#
+
+
+❓ Nullable Types
+
+
+✨ Foundations • Tools • Architecture • Practice ✨
+<br>
+<br>
+
+## 📅 Day 2 – Arrays & Loops 🔁📦
 
 
 🔧 Tech in Use: .NET ⚙️
@@ -86,6 +126,7 @@ Methods define what your program can do 🚀
 🎯 Return Types & Parameters – Control input & output
 <br>
 <br>
+
 ### 📅 Day 4 – Building Logic with .NET 🧩💻
 
 
@@ -107,6 +148,7 @@ Methods define what your program can do 🚀
 🚀 Code • Logic • Structure • Practice 🚀
 <br>
 <br>
+
 ### 📅 Day 5 – Handling Errors & Files Like a Pro 🧠💻
 
 
@@ -155,7 +197,6 @@ Methods define what your program can do 🚀
 
 
 🧱 Non-Generic Stack
-
 <br>
 <br>
 
@@ -243,8 +284,6 @@ Methods define what your program can do 🚀
 
 
 ✨ Tested • Verified • Reliable ✨
-
-
 <br>
 <br>
 
@@ -319,6 +358,7 @@ Methods define what your program can do 🚀
 ➡️ Writing unit tests for reliable code
 <br>
 <br>
+
 ### 🗓️ Day 12 – .NET Architecture & Design Mastery 🧠⚙️💻
 
 
@@ -344,9 +384,6 @@ Methods define what your program can do 🚀
 
 
 ➡️ Applied SOLID principles
-
-
-
 <br>
 <br>
 
@@ -375,12 +412,6 @@ Methods define what your program can do 🚀
 
 
 INNER / LEFT / RIGHT /FULL joins
-
-
-
-
-
-
 <br>
 <br>
 
@@ -390,7 +421,6 @@ INNER / LEFT / RIGHT /FULL joins
 🛠️ Tech Used: SQL 💾📘⚙️
 
 
-
 👨‍💼📊 EmployeeCaseStudy.sql
 
 
@@ -398,8 +428,6 @@ INNER / LEFT / RIGHT /FULL joins
 
 
 🔔🔄 TriggerDemo.sql
-
-
 <br>
 <br>
 
@@ -412,8 +440,6 @@ INNER / LEFT / RIGHT /FULL joins
 🎧 Turning text into voice!
 
 ✨ Simple • Clean • Interactive ✨
-
-
 <br>
 <br>
 
