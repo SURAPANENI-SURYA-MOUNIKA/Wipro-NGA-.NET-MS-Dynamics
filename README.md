@@ -1,3 +1,35 @@
+**🗓️ Day 13 – SQL Foundations Day 🧱🗄️✨**
+
+
+🛠️ Tech Used: SQL 💾📘⚙️
+📂 Concepts:
+
+
+🧪📄 Sample1Demo.sql 🧠✍️
+
+
+➡️ Core SQL syntax & basic query practice
+
+
+🔗🔑 ForeignKeyImplementation.sql 🏗️🛡️
+
+
+➡️ Creating table relationships
+
+
+🔄📊 JoinsDemo.sql 🔍📑
+
+
+INNER / LEFT / RIGHT /FULL joins
+
+
+
+
+
+
+<br>
+<br>
+
 **🗓️ Day 14 – SQL Power Day 🗄️**
 
 
