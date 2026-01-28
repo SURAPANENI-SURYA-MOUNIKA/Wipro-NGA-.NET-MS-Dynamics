@@ -1,3 +1,22 @@
+**🗓️ Day 14 – SQL Power Day 🗄️**
+
+
+🛠️ Tech Used: SQL 💾📘⚙️
+
+
+
+👨‍💼📊 EmployeeCaseStudy.sql
+
+
+⚙️🧠 StoredProceduresDemo.sql
+
+
+🔔🔄 TriggerDemo.sql
+
+
+<br>
+<br>
+
 **🗓 Day 15 – Text to Speech Project 🗣️🔊**
 
 💻 Crafted with HTML 🧱 | CSS 🎨 | JavaScript ⚡
@@ -10,7 +29,7 @@
 
 
 <br>
-
+<br>
 
 **🗓 Day 16 – Double Project Milestone**
 
@@ -28,7 +47,7 @@ Includes Audio 🎵, Video 🎥, Tables 📊, Navigation 🧭, and Cards 🗂️
 
 
 
-#📍🌍 Project 2: Geolocation Web App
+📍🌍 Project 2: Geolocation Web App
 
 
 Fetches and displays user’s live location in real time 📡
