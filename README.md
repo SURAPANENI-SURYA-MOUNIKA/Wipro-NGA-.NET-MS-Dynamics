@@ -167,7 +167,7 @@ INNER / LEFT / RIGHT /FULL joins
 <br>
 <br>
 
-### 🗓 Day 16 – Double Project Milestone**
+### 🗓 Day 16 – Double Project Milestone
 
 
 **🎬🎧 Project 1: Multimedia Web Page**
@@ -193,5 +193,33 @@ Fetches and displays user’s live location in real time 📡
 
 
 🚀 Experience it live here 👉 🔗
+
+<br>
+<br>
+
+### 🗓️ Day 17 – JavaScript Basics Day 🧠⚡
+
+
+🛠️ Tech Used: JavaScript 🟨📘
+
+
+ **📚 Topics Covered:**
+
+
+🧩📌 Introduction to JavaScript
+
+
+🔤📦 Data Types
+
+
+📝📍 Variables
+
+
+⚙️🔧 Functions
+
+
+🔍🌐 Scope
+
+
 
 
