@@ -25,7 +25,7 @@
 ➡️ Core SQL concepts
 
 
-## 📂 .NET Applications & Mini Projects ⚙️✨
+**📂 .NET Applications & Mini Projects ⚙️✨**
 
 🔐🔑 DemoEncryption
 
@@ -69,13 +69,13 @@
 ➡️ Writing unit tests for reliable code
 <br>
 <br>
-**🗓️ Day 12 – .NET Architecture & Design Mastery 🧠⚙️💻**
+### 🗓️ Day 12 – .NET Architecture & Design Mastery 🧠⚙️💻
 
 
 🛠️ Tech Used: .NET ⚙️💻📘
 
 
-## 📂 Projects & Case Studies:
+** 📂 Projects & Case Studies:**
 
 
 🏗️📐 DesignPatternsCaseStudy
@@ -100,13 +100,13 @@
 <br>
 <br>
 
-**🗓️ Day 13 – SQL Foundations Day 🧱🗄️✨**
+### 🗓️ Day 13 – SQL Foundations Day 🧱🗄️✨
 
 
 🛠️ Tech Used: SQL 💾📘⚙️
 
 
-## 📂 Concepts:
+**📂 Concepts:**
 
 
 🧪📄 Sample1Demo.sql 🧠✍️
@@ -134,7 +134,7 @@ INNER / LEFT / RIGHT /FULL joins
 <br>
 <br>
 
-**🗓️ Day 14 – SQL Power Day 🗄️**
+### 🗓️ Day 14 – SQL Power Day 🗄️
 
 
 🛠️ Tech Used: SQL 💾📘⚙️
@@ -153,7 +153,7 @@ INNER / LEFT / RIGHT /FULL joins
 <br>
 <br>
 
-**🗓 Day 15 – Text to Speech Project 🗣️🔊**
+### 🗓 Day 15 – Text to Speech Project 🗣️🔊
 
 💻 Crafted with HTML 🧱 | CSS 🎨 | JavaScript ⚡
 
@@ -167,10 +167,10 @@ INNER / LEFT / RIGHT /FULL joins
 <br>
 <br>
 
-**🗓 Day 16 – Double Project Milestone**
+### 🗓 Day 16 – Double Project Milestone**
 
 
-## 🎬🎧 Project 1: Multimedia Web Page
+**🎬🎧 Project 1: Multimedia Web Page**
 
 
 Includes Audio 🎵, Video 🎥, Tables 📊, Navigation 🧭, and Cards 🗂️
@@ -183,7 +183,7 @@ Includes Audio 🎵, Video 🎥, Tables 📊, Navigation 🧭, and Cards 🗂️
 
 
 
-## 📍🌍 Project 2: Geolocation Web App
+**📍🌍 Project 2: Geolocation Web App**
 
 
 Fetches and displays user’s live location in real time 📡
