@@ -16,10 +16,7 @@
 ✅ Verifying expected vs actual results
 
 
-🧠 Outcome:
-
-
-Improved understanding of the importance of testing for reliable and quality code
+🧠 Outcome: Improved understanding of the importance of testing for reliable and quality code
 
 
 ✨ Tested • Verified • Reliable ✨
