@@ -1,3 +1,35 @@
+### 📅 Day 5 – Handling Errors & Files Like a Pro 🧠💻
+
+
+🛠️ Tech in Use: .NET ⚙️
+
+
+**📂 Practice Work:**
+
+
+📁 DemoOnFileHandling
+
+
+➡️ Worked with file operations like reading & writing data 📄✍️
+
+
+⚠️ ExceptionHandling
+
+
+➡️ Practiced handling runtime errors safely and cleanly 🛡️
+
+
+🧩 ExceptionHandlingCaseStudy
+
+
+➡️ Applied exception handling in real-time scenarios 🔍
+
+
+🚀 Code • Files • Exceptions • Stability 🚀
+
+<br>
+<br>
+
 ### 📅 Day 6 – Learning by Doing 💡💻
 
 
