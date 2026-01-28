@@ -1,3 +1,77 @@
+**🗓️ Day 11 – Testing & SQL Practice Day 🚀🧠🧪💻**
+
+
+🛠️ Tech Used:
+
+
+.NET ⚙️💻 | SQL 💾📘
+
+
+📂 SQL Practice & Case Studies 🗄️📊
+
+
+🛒📦 EcommerceCaseStudy
+
+
+➡️ Real-world e-commerce database queries
+
+
+🧪📄 EcommerceDemo
+
+
+➡️ SQL query practice with structured datasets
+
+
+🧠✍️ SampleDemo1.sql
+
+
+➡️ Core SQL concepts
+
+
+📂 .NET Applications & Mini Projects ⚙️✨
+
+🔐🔑 DemoEncryption
+
+
+➡️ Understanding encryption concepts
+
+
+🧬🔐 EncryptionRandomKey
+
+
+➡️ Secure data handling using random keys
+
+
+📱🔊 DemoTextToSpeechConverterApp
+
+
+➡️ Converting text into speech using .NET
+
+
+📸🔗 DemoQrCodeGenerator
+
+
+➡️ Generating QR codes programmatically
+
+
+📊🧮 GradeCalculator
+
+
+➡️ Logic building & conditional operations
+
+
+📚🏫 LibraryManagementSystem
+
+
+➡️ CRUD operations & system design basics
+
+
+🧪✅ UnitTesting_CalculatorApp
+
+
+➡️ Writing unit tests for reliable code
+<br>
+<br>
 **🗓️ Day 12 – .NET Architecture & Design Mastery 🧠⚙️💻**
 
 
