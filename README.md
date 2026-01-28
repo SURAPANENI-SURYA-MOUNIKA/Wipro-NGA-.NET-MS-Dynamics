@@ -1,3 +1,24 @@
+### 📅 Day 4 – Building Logic with .NET 🧩💻
+
+
+🛠️ Tech in Use: .NET ⚙️
+
+
+**📂 Practice Work:**
+
+
+🎓 OnlineLearningPlatform
+
+
+🛒 OrderManagementSystem
+
+
+🔒 StaticKeywordImplementation
+
+
+🚀 Code • Logic • Structure • Practice 🚀
+<br>
+<br>
 ### 📅 Day 5 – Handling Errors & Files Like a Pro 🧠💻
 
 
