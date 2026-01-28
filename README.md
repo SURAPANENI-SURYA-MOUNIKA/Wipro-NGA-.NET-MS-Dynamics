@@ -1,3 +1,34 @@
+**🗓️ Day 12 – .NET Architecture & Design Mastery 🧠⚙️💻**
+
+
+🛠️ Tech Used: .NET ⚙️💻📘
+
+
+📂 Projects & Case Studies:
+
+
+🏗️📐 DesignPatternsCaseStudy
+
+
+➡️ Implemented common design patterns
+
+
+🔐👤 SecureUserManagementCaseStudy
+
+
+➡️ User authentication & authorization concepts
+
+
+🧩📊 SOLIDPrinciples.ReportingSystemDemo
+
+
+➡️ Applied SOLID principles
+
+
+
+<br>
+<br>
+
 **🗓️ Day 13 – SQL Foundations Day 🧱🗄️✨**
 
 
