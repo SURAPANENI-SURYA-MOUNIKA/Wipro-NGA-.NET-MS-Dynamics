@@ -1,3 +1,43 @@
+## 📅 Day 2 – Arrays & Loops in .NET 🔁📦
+
+
+🔧 Tech in Use: .NET ⚙️
+
+
+**📂 Topics Covered**
+
+
+#### 📦 Arrays
+
+
+🔢 Single-Dimensional Arrays
+
+
+🧮 Multi-Dimensional Arrays
+
+
+🧩 Jagged Array
+
+
+#### 🔁 Loops
+
+
+🔂 for loop – Known number of iterations
+
+
+🔄 while loop – Condition-based looping
+
+
+🔁 do-while loop – Executes at least once
+
+
+📚 foreach loop – Best for arrays & collections
+
+
+🧠 Reduces code repetition and improves readability
+<br>
+<br>
+
 ### 📅 Day 3 – Access Modifiers & Methods 🔐⚙️
 
 
