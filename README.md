@@ -1,3 +1,35 @@
+### 🗓️ Day 7 – Hands-On Coding Session 💻✨
+
+
+🛠️ Tech in Use: .NET ⚙️
+
+
+📂 Practice Work:
+
+
+**🧩🧠 Delegates – Indexers – Properties**
+
+
+➡️ Worked with delegates
+
+
+➡️ Implemented indexers
+
+
+**🔢📊 Sorting, Searching Demo**
+
+
+➡️ Implemented sorting, Searching logic
+
+
+➡️ Improved understanding of data ordering and comparison
+
+
+🚀 Code • Delegates • Indexers • Properties • Search • Sort  🚀
+
+<br>
+<br>
+
 ### 🗓️ Day 8 – .NET Development Day ⚙️💻
 
 
