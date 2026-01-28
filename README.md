@@ -4,7 +4,7 @@
 🛠️ Tech Used: .NET ⚙️💻 | SQL 💾📘
 
 
-📂 SQL Practice & Case Studies 🗄️📊
+## 📂 SQL Practice & Case Studies 🗄️📊
 
 
 🛒📦 EcommerceCaseStudy
@@ -25,7 +25,7 @@
 ➡️ Core SQL concepts
 
 
-📂 .NET Applications & Mini Projects ⚙️✨
+## 📂 .NET Applications & Mini Projects ⚙️✨
 
 🔐🔑 DemoEncryption
 
@@ -75,7 +75,7 @@
 🛠️ Tech Used: .NET ⚙️💻📘
 
 
-📂 Projects & Case Studies:
+## 📂 Projects & Case Studies:
 
 
 🏗️📐 DesignPatternsCaseStudy
@@ -106,7 +106,7 @@
 🛠️ Tech Used: SQL 💾📘⚙️
 
 
-📂 Concepts:
+## 📂 Concepts:
 
 
 🧪📄 Sample1Demo.sql 🧠✍️
@@ -170,7 +170,7 @@ INNER / LEFT / RIGHT /FULL joins
 **🗓 Day 16 – Double Project Milestone**
 
 
-🎬🎧 Project 1: Multimedia Web Page
+## 🎬🎧 Project 1: Multimedia Web Page
 
 
 Includes Audio 🎵, Video 🎥, Tables 📊, Navigation 🧭, and Cards 🗂️
@@ -183,7 +183,7 @@ Includes Audio 🎵, Video 🎥, Tables 📊, Navigation 🧭, and Cards 🗂️
 
 
 
-📍🌍 Project 2: Geolocation Web App
+## 📍🌍 Project 2: Geolocation Web App
 
 
 Fetches and displays user’s live location in real time 📡
