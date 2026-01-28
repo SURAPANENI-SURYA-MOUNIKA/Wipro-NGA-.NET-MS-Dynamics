@@ -1,3 +1,51 @@
+### 📅 Day 3 – Access Modifiers & Methods 🔐⚙️
+
+
+🔧 Tech in Use: .NET ⚙️
+
+
+**📂 Topics Covered**
+
+
+#### 🔐 Access Modifiers
+
+
+Control who can access what in your code 👇
+
+
+🔓 public – Accessible from anywhere
+
+
+🏠 private – Accessible only within the same class
+
+
+🧬 protected – Accessible within the class & derived classes
+
+
+📦 internal – Accessible within the same project/assembly
+
+
+🔐➕ protected internal – Protected OR internal access
+
+
+#### ⚙️ Methods
+
+
+Methods define what your program can do 🚀
+
+
+🧱 Instance Methods – Belong to an object
+
+
+🏗️ Static Methods – Belong to the class itself
+
+
+🔄 Method Overloading – Same method name, different parameters
+
+
+🎯 Return Types & Parameters – Control input & output
+<br>
+<br>
 ### 📅 Day 4 – Building Logic with .NET 🧩💻
 
 
