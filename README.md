@@ -75,7 +75,7 @@
 🛠️ Tech Used: .NET ⚙️💻📘
 
 
-** 📂 Projects & Case Studies:**
+**📂 Projects & Case Studies:**
 
 
 🏗️📐 DesignPatternsCaseStudy
