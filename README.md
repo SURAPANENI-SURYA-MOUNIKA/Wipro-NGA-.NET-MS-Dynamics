@@ -1,3 +1,23 @@
+### 📅 Day 6 – Learning by Doing 💡💻
+
+
+🛠️ Tech in Use: .NET ⚙️
+
+
+**📂 Practice Work:**
+
+
+📦 Collections Demo
+
+
+⚡ Lambda Expression Demo
+
+
+🧱 Non-Generic Stack
+
+<br>
+<br>
+
 ### 🗓️ Day 7 – Hands-On Coding Session 💻✨
 
 
