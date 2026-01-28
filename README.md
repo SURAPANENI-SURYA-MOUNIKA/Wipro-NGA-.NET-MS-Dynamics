@@ -1,10 +1,7 @@
 **🗓️ Day 11 – Testing & SQL Practice Day 🚀🧠🧪💻**
 
 
-🛠️ Tech Used:
-
-
-.NET ⚙️💻 | SQL 💾📘
+🛠️ Tech Used: .NET ⚙️💻 | SQL 💾📘
 
 
 📂 SQL Practice & Case Studies 🗄️📊
