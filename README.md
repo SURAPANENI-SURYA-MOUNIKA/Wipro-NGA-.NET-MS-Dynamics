@@ -1,3 +1,23 @@
+### 🗓️ Day 8 – .NET Development Day ⚙️💻
+
+
+🛠️ Focus: .NET
+
+
+**📂 Practice Work:**
+
+
+🛒📦 E-commerce application development
+
+
+⚙️ Project setup and execution
+
+
+
+
+<br>
+<br>
+
 ### 🗓️ Day 9 – Exam Day 📝🎯
 
 
