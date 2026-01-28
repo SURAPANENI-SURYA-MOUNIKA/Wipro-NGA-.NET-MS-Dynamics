@@ -4,7 +4,7 @@
 🛠️ Tech Used: .NET ⚙️💻 | SQL 💾📘
 
 
-#### 📂 SQL Practice & Case Studies 🗄️📊
+### 📂 SQL Practice & Case Studies 🗄️📊
 
 
 🛒📦 EcommerceCaseStudy
