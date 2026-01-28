@@ -1,3 +1,33 @@
+### 🗓️ Day 10 – Testing Day 🧪✅
+
+
+🛠️ Focus: Testing
+
+
+**📂 Practice Work:**
+
+
+🧪 Writing and executing test cases
+
+
+🔍 Validating application behavior
+
+
+✅ Verifying expected vs actual results
+
+
+🧠 Outcome:
+
+
+Improved understanding of the importance of testing for reliable and quality code
+
+
+✨ Tested • Verified • Reliable ✨
+
+
+<br>
+<br>
+
 ### 🗓️ Day 11 – Testing & SQL Practice Day 🚀🧠🧪💻
 
 
