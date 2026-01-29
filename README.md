@@ -506,6 +506,15 @@ Fetches and displays user’s live location in real time 📡
 
 
 🔍🌐 Scope
+<br>
+<br>
+🗓️ Day 18 – Exam Day 📝🎯
+
+
+🛠️ Focus: Exam
+
+
+✨ Completed • Evaluated • Milestone Reached ✨
 
 
 
