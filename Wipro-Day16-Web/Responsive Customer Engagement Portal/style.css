@@ -1,0 +1,31 @@
+/* US-06: External CSS file */
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+/* US-07: Selectors & Box Model */
+.card {
+    padding: 10px;
+    margin: 10px;
+    border-radius: 12px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+/* US-09: CSS3 Effects */
+.card:hover {
+    transform: scale(1.03);
+    transition: 0.3s;
+}
+
+/* US-02: Inline element styling */
+.highlight {
+    color: blue;
+}
+
+/* US-08: Responsive layout */
+@media (max-width: 768px) {
+    body {
+        font-size: 0.9rem;
+    }
+}
