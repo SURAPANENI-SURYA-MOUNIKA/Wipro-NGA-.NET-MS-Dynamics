@@ -549,4 +549,3 @@ Implemented a logical condition using if–else statements
 
 Simple • Logical • Practical • Hands-on 🚀
 
-
