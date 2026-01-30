@@ -515,7 +515,38 @@ Fetches and displays user’s live location in real time 📡
 
 
 ✨ Completed • Evaluated • Milestone Reached ✨
+<br>
+<br>
+### 🗓️ Day 19 – JavaScript Logic & Mini Projects ⚡
 
 
+🛠️ Tech Used: JavaScript 🟨💻
+
+
+***🔢 Calculator Application***
+
+
+Built a functional calculator app using JavaScript
+
+
+Supports basic operations ➕ ➖ ✖️ ➗
+
+
+Focused on DOM manipulation and event handling 🎯
+
+
+***📊 Case Study – Marks Evaluation***
+
+
+Implemented a logical condition using if–else statements
+
+
+🟢 Marks > 60 → Pass
+
+
+🔴 Marks ≤ 60 → Fail
+
+
+Simple • Logical • Practical • Hands-on 🚀
 
 
