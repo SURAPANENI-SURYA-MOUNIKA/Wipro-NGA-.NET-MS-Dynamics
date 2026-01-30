@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>JS Demo</title>
+</head>
+<body>
+
+<script>
+  var name = prompt("Enter your name");
+  var marks = prompt("Enter your marks");
+  marks = Number(marks);  //convert text to num
+
+  var subjects = ["Computer Networks", "DBMS", "OS"];
+
+  var result;
+  if (marks >= 60) {
+    result = "Pass";
+  } else {
+    result = "Fail";
+  }
+
+  alert(
+    "Name: " + name + "\n" +
+    "Marks: " + marks + "\n" +
+    "Result: " + result
+  );
+</script>
+
+</body>
+</html>
