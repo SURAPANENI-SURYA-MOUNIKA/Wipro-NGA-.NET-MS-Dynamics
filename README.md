@@ -548,4 +548,27 @@ Implemented a logical condition using if–else statements
 
 
 Simple • Logical • Practical • Hands-on 🚀
+<br>
+<br>
+### 📅 Day 20 – JavaScript Glow-Up ✨
 
+
+🚀 Topics Covered
+
+
+🌐 Fetch API – Making HTTP requests and handling APIs like a pro
+
+
+🏹 Arrow Functions – Shorter, cleaner, and more readable functions
+
+
+🧵 Template Literals – Dynamic strings made easy with backticks
+
+
+📦 Destructuring – Extracting values from arrays & objects effortlessly
+
+
+🧩 Spread Operator (...) – Copying and merging data smoothly
+
+
+🪄 Rest Operator (...) – Handling multiple function arguments with ease
