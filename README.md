@@ -553,6 +553,9 @@ Simple • Logical • Practical • Hands-on 🚀
 ### 📅 Day 20 – JavaScript Glow-Up ✨
 
 
+🛠️ Tech Used: JavaScript 🟨💻
+
+
 🚀 Topics Covered
 
 
