@@ -575,3 +575,60 @@ Simple • Logical • Practical • Hands-on 🚀
 
 
 🪄 Rest Operator (...) – Handling multiple function arguments with ease
+<br>
+<br>
+### 📅 Day 21 – Learning Log ✨
+
+
+📌 Topics Covered
+
+
+🧩 DOM Manipulation
+
+
+🧱 DOM Objects
+
+
+🔍 Accessing Elements
+
+
+✏️ Modifying Content
+
+
+➕➖ Add & Remove Elements
+
+
+🧠 Functional Programming
+
+
+🛡️ Error Handling – try...catch
+
+
+🌐 Client-Side Scripting – Browser-based JavaScript execution
+
+
+**📚 Case Studies**
+
+
+✅ Case Study 1: Fetching Employee Data
+
+
+🔗 Used Fetch API to retrieve data from a JSON endpoint
+
+
+📥 API: https://dummy.restapiexample.com/api/v1/employees
+
+
+🧾 Displayed the retrieved employee data in the console
+
+
+✅ Case Study 2: Random User Generator
+
+
+🔘 Created an HTML page with a button
+
+
+🌐 Used Fetch API to call https://randomuser.me/api/
+
+
+👤 Displayed name, email, and profile picture on the webpage
