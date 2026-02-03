@@ -664,7 +664,7 @@ Simple • Logical • Practical • Hands-on 🚀
 🌐 Advanced DOM Manipulation
 
 
-##### ⚡ jQuery**
+##### ⚡ jQuery
 
 
 🔌 jQuery Plugins
@@ -673,7 +673,7 @@ Simple • Logical • Practical • Hands-on 🚀
 🔄 Event Delegation
 
 
-🌍 Ajax
+##### 🌍 Ajax
 
 
 ##### 🖥️ Single Page Applications (SPA)**
