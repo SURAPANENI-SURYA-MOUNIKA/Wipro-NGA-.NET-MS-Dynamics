@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>jQuery Demo with plugins for Datetime picker</title>
+
+    <!-- jQuery -->
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+    <!-- DateTimePicker plugin CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-datetimepicker/2.5.20/jquery.datetimepicker.min.css">
+
+    <!-- DateTimePicker plugin JS -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-datetimepicker/2.5.20/jquery.datetimepicker.full.min.js"></script>
+    
+    <!-- jQuery UI (Slider) -->
+    <link rel="stylesheet" href="https://code.jquery.com/ui/1.13.2/themes/base/jquery-ui.css">
+    <script src="https://code.jquery.com/ui/1.13.2/jquery-ui.min.js"></script>
+
+    <!-- Slick Carousel -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css">
+    <script src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+
+    
+
+
+</head>
+
+<body style="font-family: Arial; padding:20px;">
+
+    <h2>Select Date and Time:</h2>
+
+    <input type="text" id="datetimepicker" placeholder="Click to select date">
+
+     <h2>Slider</h2>
+    <p>Selected Value: <span id="sliderValue">50</span></p>
+    <div id="slider" class="slider-box"></div>
+
+
+
+    <!-- Carousel -->
+    <h2>Carousel</h2>
+    <div class="carousel">
+        <div><img src="images\img1.jpg" width="500" height="500"></div>
+        <div><img src="images\img2.jpg" width="500" height="500"></div>
+    </div>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <script>
+        $(document).ready(function () {
+            $("#datetimepicker").datetimepicker({
+                format: "Y-m-d H:i",
+        minDate: 0,
+        changeMonth: true,
+        changeYear: true
+            });
+        });
+
+
+        //slider inituialization
+         $("#slider").slider({
+                min: 0,
+                max: 100,
+                value: 50,
+                slide: function (event, ui) {
+                    $("#sliderValue").text(ui.value);
+                }
+            });
+
+
+
+        //caroosel initilization
+         $(".carousel").slick({
+                autoplay: true,
+                dots: true,
+                arrows: true
+            });
+
+        
+    </script>
+
+</body>
+</html>

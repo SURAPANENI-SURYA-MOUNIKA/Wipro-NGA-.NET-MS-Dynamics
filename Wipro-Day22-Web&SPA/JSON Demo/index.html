@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student Data</title>
+</head>
+<body>
+
+<script>
+    <h3>Data</h3>
+
+const response = await fetch('sample.json');
+
+
+// Convert JSON string to JavaScript object
+const students = JSON.parse(studentJSON);
+
+// Loop through each student
+students.forEach(student => {
+    // Print in console
+    console.log(`ID: ${student.id}, Name: ${student.name}, Course: ${student.course}`);
+
+    // Create div element
+    const div = document.createElement('div');
+
+    // Add student data to div
+    div.innerHTML = `<p>
+        ID: ${student.id} <br>
+        Name: ${student.name} <br>
+        Course: ${student.course}
+    </p>`;
+
+    // Add div to page
+    document.body.appendChild(div);
+});
+</script>
+
+</body>
+</html>
