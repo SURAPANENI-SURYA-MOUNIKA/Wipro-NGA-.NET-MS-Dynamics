@@ -676,7 +676,7 @@ Simple • Logical • Practical • Hands-on 🚀
 ##### 🌍 Ajax
 
 
-##### 🖥️ Single Page Applications (SPA)**
+##### 🖥️ Single Page Applications (SPA)
 
 
 🧠 SPA Fundamentals
