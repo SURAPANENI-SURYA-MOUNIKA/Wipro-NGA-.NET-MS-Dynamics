@@ -634,12 +634,6 @@ Simple • Logical • Practical • Hands-on 🚀
 👤 Displayed name, email, and profile picture on the webpage
 <br>
 <br>
-Got it 👍
-Here’s a **clean, attractive README.md** for **Day 22**, with emojis and covering all the topics you showed 👇
-You can **directly copy–paste** this into your README file.
-
----
-
 ### 📅 Day 22 – JavaScript & SPA Demos 🚀
 
 
