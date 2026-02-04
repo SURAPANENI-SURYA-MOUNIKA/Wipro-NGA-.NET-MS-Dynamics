@@ -632,3 +632,88 @@ Simple • Logical • Practical • Hands-on 🚀
 
 
 👤 Displayed name, email, and profile picture on the webpage
+<br>
+<br>
+### 📅 Day 22 – JavaScript & SPA Demos 🚀
+
+
+🛠️ Technologies Used
+
+
+ 🌐 HTML
+
+ 
+ 🎨 CSS
+
+ 
+ ⚙️ JavaScript
+
+ 
+ 📚 jQuery
+
+ 
+##### 📌 Topics Covered
+
+
+##### 📦 JSON
+
+
+🔁 Event Delegation
+
+
+🌐 Advanced DOM Manipulation
+
+
+##### ⚡ jQuery
+
+
+🔌 jQuery Plugins
+
+
+🔄 Event Delegation
+
+
+##### 🌍 Ajax
+
+
+##### 🖥️ Single Page Applications (SPA)
+
+
+🧠 SPA Fundamentals
+
+
+🔍 Differences between SPA & Traditional Web Applications
+
+
+🧱 Architecture of SPA vs Multi-Page Apps
+
+
+⚙️ Advantages of SPA
+
+
+💻 SPA Demo created using Command Prompt
+<br>
+<br>
+### 📅 Day 23 – NPM Essentials 🚀📦
+
+
+🔧 Tech in Use: Node.js • NPM • JavaScript • React ⚙️
+
+
+**🧪 Practice Demos**
+
+
+📦 QuickKart Sample Project
+
+
+🧩 Vanilla JavaScript Demos
+
+
+⚛️ React Extension Demo
+
+
+🚀 Code • Packages • Practice • Growth 💻✨
+
+
+
+
