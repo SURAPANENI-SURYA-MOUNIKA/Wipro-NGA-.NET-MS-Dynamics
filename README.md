@@ -692,5 +692,28 @@ Simple • Logical • Practical • Hands-on 🚀
 
 
 💻 SPA Demo created using Command Prompt
+<br>
+<br>
+### 📅 Day 23 – NPM Essentials 🚀📦
+
+
+🔧 Tech in Use: Node.js • NPM • JavaScript • React ⚙️
+
+
+**🧪 Practice Demos**
+
+
+📦 QuickKart Sample Project
+
+
+🧩 Vanilla JavaScript Demos
+
+
+⚛️ React Extension Demo
+
+
+🚀 Code • Packages • Practice • Growth 💻✨
+
+
 
 
