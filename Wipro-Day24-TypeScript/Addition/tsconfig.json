@@ -1,0 +1,29 @@
+{
+  "compilerOptions": {
+    /* Basic Compilation */
+    "target": "ES6",
+    "module": "CommonJS",
+
+    /* File Handling */
+    "rootDir": ".",
+    "outDir": ".",
+
+    /* Strict Type Checking */
+    "strict": true,
+    "noUncheckedIndexedAccess": true,
+    "exactOptionalPropertyTypes": true,
+
+    /* Node Compatibility */
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+
+    /* Output Control */
+    "sourceMap": false,
+    "declaration": false,
+
+    /* Performance */
+    "skipLibCheck": true
+  },
+  "include": ["*.ts"],
+  "exclude": ["node_modules"]
+}
