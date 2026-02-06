@@ -713,6 +713,63 @@ Simple • Logical • Practical • Hands-on 🚀
 
 
 🚀 Code • Packages • Practice • Growth 💻✨
+<br>
+<br>
+### 📅 Day 24 – TypeScript Fundamentals & Demo Implementation 🚀
+
+
+**🛠️ Tech Stack Used**
+
+
+💻 TypeScript – For writing strongly typed and scalable JavaScript code
+
+
+🌐 JavaScript (ES6+) – Core language features used alongside TypeScript
+
+
+🧑‍💻 Visual Studio Code – Code editor for development
+
+
+⚙️ Node.js – Runtime environment to execute TypeScript code
+
+
+📦 npm – Package manager for managing dependencies
+
+
+🔄 TypeScript Compiler (tsc) – To compile TypeScript into JavaScript
+
+
+**📘 Topics Covered**
+
+
+ 🧩 TypeScript Types – Understanding basic and custom types
+
+ 
+ 📐 Interfaces – Defining structured object shapes
+
+ 
+ 🔧 Functions – Typed parameters and return types
+
+ 
+ 🏗️ Classes – Object-oriented programming in TypeScript
+
+ 
+ 📦 Modules – Importing and exporting code for better organization
+
+ 
+**🧪 Hands-on Demo**
+
+
+ ➕ Addition
+
+ 
+ ➖ Subtraction
+
+ 
+ ✖️ Multiplication
+
+ 
+ ➗ Division
 
 
 
