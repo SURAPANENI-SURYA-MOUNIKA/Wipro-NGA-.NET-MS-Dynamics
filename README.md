@@ -770,6 +770,21 @@ Simple • Logical • Practical • Hands-on 🚀
 
  
  ➗ Division
+ <br>
+ <br>
+ ### 📅 Day 25 – TypeScript Case Studies 🚀
+
+
+**🧰 Tech Stack Used**
+
+
+ ⚙️ TypeScript
+
+ 
+**🧩 Case Study 1: Type Safety in TypeScript 🛡️**
+
+
+**🧩 Case Study 2: TaskFlow Pro – Mini Project 📋**
 
 
 
