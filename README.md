@@ -787,7 +787,8 @@ Simple • Logical • Practical • Hands-on 🚀
 **🧩 Case Study 2: TaskFlow Pro – Mini Project 📋**
 <br>
 <br>
-🗓️ Day 26 – Milestone Day 📝🎯
+
+### 🗓️ Day 26 – Milestone Day 📝🎯
 
 
 🛠️ Focus: Exam
