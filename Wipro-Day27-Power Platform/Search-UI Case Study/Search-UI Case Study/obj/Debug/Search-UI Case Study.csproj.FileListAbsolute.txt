@@ -1,0 +1,10 @@
+C:\Users\hp\Desktop\Wipro-NGA-.NET-MS-Dynamics\Wipro-NGA-.NET-MS-Dynamics\Wipro-Day27-Power Platform\Search-UI Case Study\Search-UI Case Study\bin\Debug\Search-UI Case Study.exe.config
+C:\Users\hp\Desktop\Wipro-NGA-.NET-MS-Dynamics\Wipro-NGA-.NET-MS-Dynamics\Wipro-Day27-Power Platform\Search-UI Case Study\Search-UI Case Study\bin\Debug\Search-UI Case Study.exe
+C:\Users\hp\Desktop\Wipro-NGA-.NET-MS-Dynamics\Wipro-NGA-.NET-MS-Dynamics\Wipro-Day27-Power Platform\Search-UI Case Study\Search-UI Case Study\bin\Debug\Search-UI Case Study.pdb
+C:\Users\hp\Desktop\Wipro-NGA-.NET-MS-Dynamics\Wipro-NGA-.NET-MS-Dynamics\Wipro-Day27-Power Platform\Search-UI Case Study\Search-UI Case Study\obj\Debug\Search-UI Case Study.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Wipro-NGA-.NET-MS-Dynamics\Wipro-NGA-.NET-MS-Dynamics\Wipro-Day27-Power Platform\Search-UI Case Study\Search-UI Case Study\obj\Debug\Search_UI_Case_Study.Form1.resources
+C:\Users\hp\Desktop\Wipro-NGA-.NET-MS-Dynamics\Wipro-NGA-.NET-MS-Dynamics\Wipro-Day27-Power Platform\Search-UI Case Study\Search-UI Case Study\obj\Debug\Search_UI_Case_Study.Properties.Resources.resources
+C:\Users\hp\Desktop\Wipro-NGA-.NET-MS-Dynamics\Wipro-NGA-.NET-MS-Dynamics\Wipro-Day27-Power Platform\Search-UI Case Study\Search-UI Case Study\obj\Debug\Search-UI Case Study.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\Wipro-NGA-.NET-MS-Dynamics\Wipro-NGA-.NET-MS-Dynamics\Wipro-Day27-Power Platform\Search-UI Case Study\Search-UI Case Study\obj\Debug\Search-UI Case Study.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Wipro-NGA-.NET-MS-Dynamics\Wipro-NGA-.NET-MS-Dynamics\Wipro-Day27-Power Platform\Search-UI Case Study\Search-UI Case Study\obj\Debug\Search-UI Case Study.exe
+C:\Users\hp\Desktop\Wipro-NGA-.NET-MS-Dynamics\Wipro-NGA-.NET-MS-Dynamics\Wipro-Day27-Power Platform\Search-UI Case Study\Search-UI Case Study\obj\Debug\Search-UI Case Study.pdb
