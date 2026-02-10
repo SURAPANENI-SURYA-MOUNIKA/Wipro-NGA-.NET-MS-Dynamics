@@ -795,6 +795,31 @@ Simple • Logical • Practical • Hands-on 🚀
 
 
 ✨ Completed • Evaluated • Milestone Reached ✨
+<br>
+<br>
+### 🗓️ Day 27 – Development Update ✨🚀
+
+
+**💼🌐 Power Platform Projects**
+
+
+##### 👩‍💼📊 1️⃣ Employee Management App
+
+
+🔹 Designed & developed an Employee Details application 🏗️
+
+
+##### 📅🏢 2️⃣ Meeting Bookings App
+
+
+🔹 Built a smart Meeting Room Booking system 🏢
+
+
+**💻🖥️ C#.NET UI-Based Case Study**
+
+
+🔹 Developed a UI-focused case study project 📚
+
 
 
 
