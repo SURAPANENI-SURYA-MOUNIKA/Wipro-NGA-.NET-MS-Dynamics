@@ -819,6 +819,19 @@ Simple • Logical • Practical • Hands-on 🚀
 
 
 🔹 Developed a UI-focused case study project 📚
+<br>
+<br>
+### 📅 Day 28 – Power Day🚀📊
+
+
+**🧾 SSRS (SQL Server Reporting Services)**
+
+
+**📊 Power BI**
+
+
+
+
 
 
 
