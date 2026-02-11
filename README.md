@@ -834,7 +834,7 @@ Simple • Logical • Practical • Hands-on 🚀
 **📊 Power BI Projects**
 #### 📈 Project 1: Sales Performance Dashboard ####
 **🔗 Live Dashboard Link:** https://app.powerbi.com/groups/me/reports/6b18f1c1-1591-4c72-a825-74a0a66fe2b2/ab1a89a53643f3ab05a0?experience=power-bi
-#### 👨‍💼 Project 2: Employee Performance Dashboard####
+#### 👨‍💼 Project 2: Employee Performance Dashboard ####
 **🔗 Live Dashboard Link:** https://app.powerbi.com/groups/me/reports/e0087dee-9e5b-4042-91bd-55b6febb4ac1/bbd359d96f1978899896?experience=power-bi
 
 
