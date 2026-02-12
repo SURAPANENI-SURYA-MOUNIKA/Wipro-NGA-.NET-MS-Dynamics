@@ -838,9 +838,17 @@ Simple • Logical • Practical • Hands-on 🚀
 **🔗 Live Dashboard Link:** https://app.powerbi.com/groups/me/reports/e0087dee-9e5b-4042-91bd-55b6febb4ac1/bbd359d96f1978899896?experience=power-bi
 <br>
 <br>
-### 📅 Day 30- 
+### 📅 Day 30 – Entering the World of Azure & Cloud ☁️📊
+
+**📊 IT Spend Analysis Project**
+
 
 **🔗 Live Dashboard Link:** https://app.powerbi.com/groups/me/reports/3faab50c-91f5-4912-98bf-22f150c51a1d/03fc391e9a14cd82a57d?experience=power-bi
+
+
+**☁️ Azure & Cloud Basics**
+
+
 
 
 
