@@ -831,11 +831,21 @@ Simple • Logical • Practical • Hands-on 🚀
 <br>
 <br>
 ### 📅 Day 29- 📈 Dashboard Excellence Series📊
+
+
 **📊 Power BI Projects**
+
+
 #### 📈 Project 1: Sales Performance Dashboard ####
-**🔗 Live Dashboard Link:** https://app.powerbi.com/groups/me/reports/6b18f1c1-1591-4c72-a825-74a0a66fe2b2/ab1a89a53643f3ab05a0?experience=power-bi
+
+
+**🔥🚀 Step Into the Live Analytics:** https://app.powerbi.com/groups/me/reports/6b18f1c1-1591-4c72-a825-74a0a66fe2b2/ab1a89a53643f3ab05a0?experience=power-bi
+
+
 #### 👨‍💼 Project 2: Employee Performance Dashboard ####
-**🔗 Live Dashboard Link:** https://app.powerbi.com/groups/me/reports/e0087dee-9e5b-4042-91bd-55b6febb4ac1/bbd359d96f1978899896?experience=power-bi
+
+
+**📈💡 Experience the Data Live:** https://app.powerbi.com/groups/me/reports/e0087dee-9e5b-4042-91bd-55b6febb4ac1/bbd359d96f1978899896?experience=power-bi
 <br>
 <br>
 ### 📅 Day 30 – Entering the World of Azure & Cloud ☁️📊
@@ -843,10 +853,25 @@ Simple • Logical • Practical • Hands-on 🚀
 **📊 IT Spend Analysis Project**
 
 
-**🔗 Live Dashboard Link:** https://app.powerbi.com/groups/me/reports/3faab50c-91f5-4912-98bf-22f150c51a1d/03fc391e9a14cd82a57d?experience=power-bi
+**🎯 📊 Click to Explore the Visual Story:** https://app.powerbi.com/groups/me/reports/3faab50c-91f5-4912-98bf-22f150c51a1d/03fc391e9a14cd82a57d?experience=power-bi
 
 
 **☁️ Azure & Cloud Basics**
+<br>
+<br>
+### 📅 Day 31 – Productivity Unlocked! 🚀☁️📊
+
+
+**📊 Power BI Case Study**
+
+
+**🌐 📊 Dive Into the Interactive Dashboard:** https://app.powerbi.com/groups/me/reports/18f834f2-ee18-4a10-adef-abe9e22e9144/e7ffccd77d8797a53d3d?experience=power-bi
+
+
+**☁️Microsoft Azure**
+
+
+🌍Built and deployed an application
 
 
 
