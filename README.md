@@ -872,6 +872,13 @@ Simple • Logical • Practical • Hands-on 🚀
 
 
 🌍Built an application
+<br>
+<br>
+### 📅Day 32 - Power Move on Azure🌩️🚀
+
+
+**📩⚡Automatic Email Generation System-** Automated email generation using Azure triggers 🔥💡
+
 
 
 
