@@ -871,8 +871,7 @@ Simple • Logical • Practical • Hands-on 🚀
 **☁️Microsoft Azure**
 
 
-🌍Built and deployed an application
-
+🌍Built an application
 
 
 
