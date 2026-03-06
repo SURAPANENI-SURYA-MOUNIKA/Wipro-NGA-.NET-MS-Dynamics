@@ -884,6 +884,31 @@ Simple • Logical • Practical • Hands-on 🚀
 
 
 🚀Successfully wrapped up all case studies — learning, building, and leveling up every single day! 💪📚✨
+<br>
+<br>
+### 📅 Day 34 – Day 35 | Analytical Thinking & Data-Driven Process
+
+
+🧠 Learned the fundamentals of analytical thinking and its importance in data-driven organizations.
+<br>
+<br>
+### 📅Day 36 – Milestone 4 Day🎯
+
+
+🏁 Successfully completed **Milestone 4 – the final milestone** of the program.🚀
+<br>
+<br>
+### 📅Day 37 – Day 41 | 🎯 Capstone Development Days 🚀
+
+
+💻 Developed a **Capstone Project on Finance & Billing**, built a **real-world full-stack application** integrating backend, frontend, and business logic for managing financial transactions and billing processes. 📊⚙️
+<br>
+<br>
+### 📅 Day 42 – Grand Finale: Final Assessment📝
+
+
+🎓Wrapped up the Final Exam and **Successfully reached the finish line of my Pre-Skilling Training journey**🎯🚀
+
 
 
 
